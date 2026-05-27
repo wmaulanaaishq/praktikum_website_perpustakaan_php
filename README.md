@@ -16,8 +16,6 @@ Aplikasi web sederhana untuk mengelola data buku menggunakan **PHP + MySQL** den
 - Edit data buku
 - Hapus data buku
 - Validasi dasar form
-- Tampilan UI modern dan responsif
-- Cocok untuk tugas praktikum Web / MySQL
 
 ---
 
