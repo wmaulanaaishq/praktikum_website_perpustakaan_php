@@ -7,8 +7,6 @@
 
 Aplikasi web sederhana untuk mengelola data buku menggunakan **PHP + MySQL** dengan tampilan modern, rapi, dan mudah digunakan.
 
----
-
 ## ✨ Fitur
 
 - Tambah data buku
