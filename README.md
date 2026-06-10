@@ -5,7 +5,7 @@
 [![XAMPP](https://img.shields.io/badge/XAMPP-Ready-FB7A24?logo=xampp&logoColor=white)](https://www.apachefriends.org/)
 [![Status](https://img.shields.io/badge/Project-CRUD%20Buku-success)]()
 
-Aplikasi web sederhana untuk mengelola data buku menggunakan **PHP + MySQL** dengan tampilan modern, rapi, dan mudah digunakan.
+Aplikasi web sederhana untuk mengelola data buku menggunakan **PHP + MySQL** dengan tampilan modern, rapi dan mudah digunakan
 
 ## ✨ Fitur
 
