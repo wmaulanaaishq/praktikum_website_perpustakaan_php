@@ -39,8 +39,6 @@ Aplikasi web sederhana untuk mengelola data buku menggunakan **PHP + MySQL** den
 - [Screenshot](#-screenshot)
 - [Catatan](#-catatan)
 
----
-
 ## 🗂️ Struktur Folder
 
 <details>
