@@ -23,9 +23,7 @@ Aplikasi web sederhana untuk mengelola data buku menggunakan **PHP + MySQL** den
 2. Klik **Daftar Buku Baru**
 3. Isi data buku
 4. Simpan
-5. Lihat hasilnya di **Katalog Buku**
-
----
+5. Lihat hasilnya di **Katalog Buku*
 
 ## 📌 Daftar Isi
 
